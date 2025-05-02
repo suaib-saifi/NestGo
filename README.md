@@ -42,7 +42,6 @@
 
 - **User Authentication**: Secure registration and login using Passport.js with persistent sessions.
 - **Dynamic Listings**: Users can browse travel listings with images, descriptions, and pricing.
-- **Search & Filter**: Easily find listings that match your preferences.
 - **Review System**: Leave ratings and feedback to help others.
 - **Responsive Design**: Works seamlessly on all screen sizes using Bootstrap.
 - **Session Handling**: Sessions are stored securely using MongoDB.
